@@ -1,0 +1,7 @@
+# Ignore dependency directories
+/node_modules/
+/client/node_modules/
+/server/local/
+/server/__pycache__/
+
+/.gitignore  # Ignore the ignore file itself
