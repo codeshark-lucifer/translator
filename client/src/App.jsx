@@ -45,6 +45,7 @@ function App() {
                         <option value="en">English</option>
                         <option value="es">Spanish</option>
                         <option value="fr">French</option>
+                        <option value="km">Khmer</option>
                     </select>
                 </div>
                 <div className="mb-4">
@@ -58,6 +59,7 @@ function App() {
                         <option value="es">Spanish</option>
                         <option value="en">English</option>
                         <option value="fr">French</option>
+                        <option value="km">Khmer</option>
                     </select>
                 </div>
                 <div className="mb-4">
